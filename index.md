@@ -8,25 +8,28 @@
 
 ## Personal Summary
 
-I am a platform engineer at Hostworks, where I have had the opportunity to support some of Australia's biggest household brands. Most recently, I've been supporting and maintaining the platforms that Hostworks use to deliver amazing service. It's a broad role that gave me exposure to cutting edge technologies like [Hadoop](https://www.openstack.org/), [Bosun](https://bosun.org/) and [Openstack](https://www.openstack.org/), while still keeping on top of everyday technologies.
+I am a development operations engineer for CoreLogic, the largest provider of property information, analytics and property-related risk management services in Australia and New Zealand. 
 
-I'm the kind of person that just wants to make life easy for the team. One of my biggest accomplishments was the re-development of an automated patching system to manage operating systems and security updates of customer environments using the HP Server Automation toolset. I've completed many side projects, such as interfacing with external services through RESTful API's to create domain and certificate tools for front-line staff. I have also rewritten Hostworks MySQL backup scripts and processes, integrating them with Hostworks management portals.
-I love creating scripts and tools to automate or simplify management tasks, and enjoy the challenges that this work provides.
-
-Prior to this I worked as a front-line support engineer, resolving issues with customer environments, helping customers to get what they need out of their managed IT environment. Incident resolution, environment builds, expansions, maintenance, configuration, and decommissioning were all in a days work!
+I'm passionate about automation, and enjoy implementing cloud technologies to solve business problems.
 
 ## Employment Summary
 
-### CoreLogic Australia
+### CoreLogic International (AU,NZ,UK)
 __Professional, Development Operations__  
 __Jan 2018 - Present__
 
-Sumary creation in progress.
+As a Development Operations engineer, I am responsible for the cloud based Infrastructre in use at CoreLogic International. This included environment provisioning and maintenance, provider cost optimization, best practice implementation and implementation of products and features as they are made available by cloud providers. 
+
+A significant portion of this role was liasing with application teams to create the best possible environment with the tools and products available. In some cases this involved identifying areas that could make the application more elastic or fault tolerant, while in other cases I have had the opportunity to design an entire environment: architecting for security, reliability, efficiency, and cost.
 
 __Professional, Systems Administration__  
 __Mar 2017 - Dec 2017__
 
-Sumary creation in progress.
+As a Systems Administrator I was a member of the team responsbile for all of linux based on premise infrastructure. This included patching, supporting application releases, OS upgrades, configuration managment and best practice implementation. In addition to this, we the first point of contact for application teams experiencing problems with their applications. Often this involved identifying resource constraints (cpu/memory/disk) or diagnosing connectivty between other application environments. 
+
+In addition to supporting existing release processes, I also had the opportunity to refactor the release process, moving from a script based release process to an automation platform (Jenkins & Ansible). This allowed less technical members of the ICT team to manage the release process with just a few clicks.
+
+One of the more important projects I was able to work on was the migration of a critical API to an AWS environment. The API platform was migrated from on premise server environment to an AWS autoscaling environment. The release process was implemented using a gitlab pipeline that supported a number of release management process that the business required (change approval, separation of duty etc). The process that we create for this API has now also been applied to many of the other applications required by the business. 
 
 ###  Hostworks
 __Platform Engineer__  
@@ -67,43 +70,22 @@ As a support person at EFTel (a Perth based ISP) I was responsible for resolving
 
 ## Other Courses & Certifications
 
+- 2018, [AWS Certified Cloud Practioner](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-08-30&ci=AWS00449233)
 - 2015, M102: MongoDB for DBA's
 - 2013, System Administration for the Solaris 10 Operating System (part 1) Ed 3
 - 2012, HP Server Automation 9x Essentials
 - 2012, HP Operations Orchestration 9.x Essentials
-- 2011, [Seek Learning] Linux Professional Institute - Junior - Exam 101
-  - Using the Linux Shell (ID: 259928_eng)
-  - Redirection Approaches and Process Control (ID: 259929_eng)
-  - Managing and Processing Text (ID: 259930_eng)
-- 2010, [Seek Learning] Securing Unix Systems (ID: 107848_eng)
-- 2010, [Seek Learning] Solaris 9 System Operations (ID: 73559_eng)
 - 2009, Microsoft 2779: Implementing a Microsoft SQL Server 2005 Database
 - 2008, System Administration for the Solaris 10 Operating System (part 1)
 - 2007, ITIL Foundations
-- 2001, Certificate II, Retail Operations
-- 1997, Senior First Aid Certificate (St Johns Ambulance)
 
 ## Technical Skills
 
-- Experience in administering
-  - apache, nginx
-  - mysql/mariadb, mongodb
-  - postfix, sendmail
-  - NTP, syslog
-  - Hadoop (Cloudera CDH)
-  - Openstack (Ocata, Mitaka, Kilo)
-- Toolsets
-  - IBM Tivoli Monitoring
-  - IBM BigFix/IBM Endpoint Manager
-  - IBM Cloud Orchestrator
-  - HP Server Automation
-  - Repliweb
-  - Ansible, Salt
-- Scripting/Programming
-  - HTML, CSS
-  - Python
-  - PHP
-  - bash, csh
+- AWS: EC2, ECS, CloudFormation, RDS, Lambda, Cost Optimisation
+- Containerization: Kubernetes, Pivotal Cloud Foundry
+- CI/CD: Jenkins, Gitlab
+- Release Automation: Ansible, Hashicorp Packer
+- Configuration Managment Ansible, Puppet
 
 ## Education
 
