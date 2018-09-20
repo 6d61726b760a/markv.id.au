@@ -18,9 +18,9 @@ I'm passionate about automation, and enjoy implementing cloud technologies to so
 __Professional, Development Operations__  
 __Jan 2018 - Present__
 
-As a Development Operations engineer, I am responsible for the cloud based Infrastructre in use at CoreLogic International. This included environment provisioning and maintenance, provider cost optimization, best practice implementation and implementation of products and features as they are made available by cloud providers. 
+As a Development Operations engineer, I am responsible for the cloud based infrastructre in use at CoreLogic International. This includes environment provisioning and maintenance, cloud provider cost optimization, best practice implementation and technology stack improvements. 
 
-A significant portion of this role was liasing with application teams to create the best possible environment with the tools and products available. In some cases this involved identifying areas that could make the application more elastic or fault tolerant, while in other cases I have had the opportunity to design an entire environment: architecting for security, reliability, efficiency, and cost.
+A significant portion of this role includes liasing with application teams to create the best possible environment with the tools and products available. In some cases this involved identifying areas that could make the application more elastic or fault tolerant, while in other cases I have had the opportunity to design an entire environment: architecting for security, reliability, efficiency, and cost.
 
 __Professional, Systems Administration__  
 __Mar 2017 - Dec 2017__
@@ -86,6 +86,7 @@ As a support person at EFTel (a Perth based ISP) I was responsible for resolving
 - CI/CD: Jenkins, Gitlab
 - Release Automation: Ansible, Hashicorp Packer
 - Configuration Managment Ansible, Puppet
+- Virtualization: docker, kvm, vmware
 
 ## Education
 
