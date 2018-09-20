@@ -20,12 +20,12 @@ __Jan 2018 - Present__
 
 As a Development Operations engineer, I am responsible for the cloud based infrastructre in use at CoreLogic International. This includes environment provisioning and maintenance, cloud provider cost optimization, best practice implementation and technology stack improvements. 
 
-A significant portion of this role includes liasing with application teams to create the best possible environment with the tools and products available. In some cases this involved identifying areas that could make the application more elastic or fault tolerant, while in other cases I have had the opportunity to design an entire environment: architecting for security, reliability, efficiency, and cost.
+A significant portion of this role included liasing with application teams to create the best possible environment with the tools and products available. In some cases this involved identifying areas that could make the application more elastic or fault tolerant, while in other cases I had the opportunity to design an entire environment: architecting for security, reliability, efficiency, and cost.
 
 __Professional, Systems Administration__  
 __Mar 2017 - Dec 2017__
 
-As a Systems Administrator I was a member of the team responsbile for all of linux based on premise infrastructure. This included patching, supporting application releases, OS upgrades, configuration managment and best practice implementation. In addition to this, we the first point of contact for application teams experiencing problems with their applications. Often this involved identifying resource constraints (cpu/memory/disk) or diagnosing connectivty between other application environments. 
+As a Systems Administrator I was a member of the team responsbile for all of the linux based on premise infrastructure. This included patching, supporting application releases, OS upgrades, configuration managment and best practice implementation. In addition to this, we the first point of contact for application teams experiencing problems with their applications. Often this involved identifying resource constraints (cpu/memory/disk) or diagnosing connectivty between other application environments. 
 
 In addition to supporting existing release processes, I also had the opportunity to refactor the release process, moving from a script based release process to an automation platform (Jenkins & Ansible). This allowed less technical members of the ICT team to manage the release process with just a few clicks.
 
