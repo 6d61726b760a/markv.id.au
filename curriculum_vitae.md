@@ -15,7 +15,7 @@ I'm passionate about automation, and enjoy implementing cloud technologies to so
 ## Employment Summary
 
 ### CoreLogic International (AU,NZ,UK)
-__Principal, Infrastructure Architect___. 
+__Principal, Infrastructure Architect__  
 __Jan 2019 - Present__
 
 __Professional, Development Operations__  
