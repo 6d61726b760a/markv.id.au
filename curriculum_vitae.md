@@ -15,8 +15,11 @@ I'm passionate about automation, and enjoy implementing cloud technologies to so
 ## Employment Summary
 
 ### CoreLogic International (AU,NZ,UK)
+__Principal, Infrastructure Architect___
+__Jan 2019 - Present__
+
 __Professional, Development Operations__  
-__Jan 2018 - Present__
+__Jan 2018 - Dec 2018__
 
 As a Development Operations engineer, I am responsible for the cloud based infrastructre in use at CoreLogic International. This includes environment provisioning and maintenance, cloud provider cost optimization, best practice implementation and technology stack improvements. 
 
