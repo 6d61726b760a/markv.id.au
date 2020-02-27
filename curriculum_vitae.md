@@ -18,6 +18,12 @@ I'm passionate about automation, and enjoy implementing cloud technologies to so
 __Principal, Infrastructure Architect__  
 __Jan 2019 - Present__
 
+As the principal infrastructure architect, I have the opportunity to influence and drive positive change across the CoreLogic business. This position requires me to think strategically about products and tooling we are using (or intending to use) and make decisions that align with the business's current (and long term) targets and goals.
+
+This role is unique in that I perform typical architectural activies, such as reviewing and approving infrastructure architectural patterns before implementation, but the business also allows me to take a hands on role in productionisation of new technologies and tooling. In order to support this, I collaborate across all levels of the business.
+
+In this role I have been able to be a part of a number of key initiatives in the business, such as the establishment of an SRE function, transition to data driven operational intelligence, and migration to between public cloud providers. As a part of the cloud provider migration I have been instrumental in the creation of a federated operating model, driving integration between the US,AU, and UK CoreLogic businesses.
+
 __Professional, Development Operations__  
 __Jan 2018 - Dec 2018__
 
