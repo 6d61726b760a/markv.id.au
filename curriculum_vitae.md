@@ -8,9 +8,9 @@
 
 ## Personal Summary
 
-I am a development operations engineer for CoreLogic, the largest provider of property information, analytics and property-related risk management services in Australia and New Zealand. 
+I am an infrastructure architect for CoreLogic, the largest provider of property information, analytics and property-related risk management services in Australia and New Zealand. 
 
-I'm passionate about automation, and enjoy implementing cloud technologies to solve business problems.
+I'm passionate about transformational change and automation, and I enjoy implementing cloud technologies to solve business problems.
 
 ## Employment Summary
 
