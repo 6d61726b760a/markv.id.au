@@ -10,7 +10,7 @@
 
 I am an infrastructure architect for CoreLogic, the largest provider of property information, analytics and property-related risk management services in Australia and New Zealand. 
 
-I'm passionate about transformational change, and implementation of observability solutions to support business requirements at all levels. 
+I'm passionate about transformational change, and the implementation of observability solutions drive improved business outcomes. 
 
 ## Employment Summary
 
@@ -24,12 +24,14 @@ This role is unique in that I perform typical architectural activies, such as re
 
 In this role I have been able to be a part of a number of key initiatives in the business, such as the establishment of an SRE function, transition to data driven operational intelligence, and migration between public cloud providers. As a part of the cloud provider migration I have been instrumental in the creation of a federated operating model, driving integration between the US,AU, and UK CoreLogic businesses.
 
+Recently another key area that I have had the opportunity to contribute to is the creation of an observability strategy for the Australian business. This work involved an assesment of the current tooling, indentification of requirements. This work is still in progress.
+
 __Professional, Development Operations__  
 __Jan 2018 - Dec 2018__
 
 As a Development Operations engineer, I am responsible for the cloud based infrastructre in use at CoreLogic International. This includes environment provisioning and maintenance, cloud provider cost optimization, best practice implementation and technology stack improvements. 
 
-A significant portion of this role included liasing with application teams to create the best possible environment with the tools and products available. In some cases this involved identifying areas that could make the application more elastic or fault tolerant, while in other cases I had the opportunity to design an entire environment: architecting for security, reliability, efficiency, and cost.
+A significant portion of this role included liasing with application teams to create the best possible environment with the tools and products available. In some cases this involved identifying areas that could make the application more elastic or fault tolerant, while in other cases I haved the opportunity to design an entire environment: architecting for security, reliability, efficiency, and cost.
 
 __Professional, Systems Administration__  
 __Mar 2017 - Dec 2017__
