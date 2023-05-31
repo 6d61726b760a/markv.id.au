@@ -10,7 +10,7 @@
 
 I am an infrastructure architect for CoreLogic, the largest provider of property information, analytics and property-related risk management services in Australia and New Zealand. 
 
-I'm passionate about transformational change and automation, and I enjoy implementing cloud technologies to solve business problems.
+I'm passionate about transformational change, and implementation of observability solutions to support business requirements at all levels. 
 
 ## Employment Summary
 
@@ -22,7 +22,7 @@ As the principal infrastructure architect, I have the opportunity to influence a
 
 This role is unique in that I perform typical architectural activies, such as reviewing and approving infrastructure architectural patterns before implementation, but the business also allows me to take a hands on role in productionisation of new technologies and tooling. In order to support this, I collaborate across all levels of the business.
 
-In this role I have been able to be a part of a number of key initiatives in the business, such as the establishment of an SRE function, transition to data driven operational intelligence, and migration to between public cloud providers. As a part of the cloud provider migration I have been instrumental in the creation of a federated operating model, driving integration between the US,AU, and UK CoreLogic businesses.
+In this role I have been able to be a part of a number of key initiatives in the business, such as the establishment of an SRE function, transition to data driven operational intelligence, and migration between public cloud providers. As a part of the cloud provider migration I have been instrumental in the creation of a federated operating model, driving integration between the US,AU, and UK CoreLogic businesses.
 
 __Professional, Development Operations__  
 __Jan 2018 - Dec 2018__
@@ -57,7 +57,7 @@ As a level 3 systems administrator, I was responsible for the ongoing maintenanc
 
 In this role I was responsible for the redevelopment of an automated patching system using the HP Server Automation toolset. The system managed scheduling, patching and reporting of linux hosts throughout all Hostworks's environments, and resulted in a reduced workload for front-line support teams, who were then able to focus on adding value to our customer relationships.
 
-In addition to the patching system, I developed Domain and SSL Certificate management portals. These portals retrieved relevant data from our domain and certificate registrar API's and automatically notified customers of upcoming expiry dates via the Hostworks job tracking system API. This also reduced the workload of our front-line support team, enabling them to improve our customer relationships.
+In addition to the patching system, I developed Domain and SSL Certificate management portals. These portals retrieved relevant data from our domain and certificate registrar API's and automatically notified customers of upcoming expiry dates via the Hostworks job tracking system API. This reduced the workload of our front-line support team, enabling them to improve our customer relationships.
 
 __Level 2 Systems Administrator (Linux/Unix)__  
 __Jun 2009 - Jul 2015__
@@ -79,6 +79,7 @@ As a support person at EFTel (a Perth based ISP) I was responsible for resolving
 
 ## Other Courses & Certifications
 
+- 2023, [Splunk Core Certified Power User](https://www.credly.com/badges/27d2bd81-7040-436a-bf7d-04e9e891011c/public_url)
 - 2018, [AWS Certified Cloud Practioner](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-08-30&ci=AWS00449233)
 - 2015, M102: MongoDB for DBA's
 - 2013, System Administration for the Solaris 10 Operating System (part 1) Ed 3
@@ -91,7 +92,8 @@ As a support person at EFTel (a Perth based ISP) I was responsible for resolving
 ## Technical Skills
 
 - AWS: EC2, ECS, CloudFormation, RDS, Lambda, Cost Optimisation
-- Containerization: Kubernetes, Pivotal Cloud Foundry
+- Splunk: Cloud Stack implementation, enterprise administration
+- Containerization: Docker, Kubernetes, Pivotal Cloud Foundry
 - CI/CD: Jenkins, Gitlab
 - Release Automation: Ansible, Hashicorp Packer
 - Configuration Managment Ansible, Puppet
