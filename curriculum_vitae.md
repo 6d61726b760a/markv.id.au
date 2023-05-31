@@ -10,7 +10,7 @@
 
 I am an infrastructure architect for CoreLogic, the largest provider of property information, analytics and property-related risk management services in Australia and New Zealand. 
 
-I'm passionate about transformational change, and the implementation of observability solutions drive improved business outcomes. 
+I'm passionate about transformational change, and the implementation of observability solutions to drive improved business outcomes. 
 
 ## Employment Summary
 
